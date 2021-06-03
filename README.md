@@ -3,3 +3,9 @@ Identifying Driver Intention from Vehicle Controller Dataset. This project is im
 
 
 Project Team - Elliot, Tijun and Vasu (Stanford Students)
+
+LSTM_Classification_Vehicle_Sensor_Data.ipynb --> Has the google colab run module for classifying driver's driving behaviour
+LSTM_Prediction_Vehicle_Sensor_Data.ipynb     --> Has the google colab run module for predicting vehicle control data for next 't' seconds
+LSTM_Classification_POC.ipynb                 --> Has the POC google colab module on usage of RNN for vehicle control data set
+
+Rest of all other ipynb modules are copy of the executable codes that exits in the above 3 modules.  
